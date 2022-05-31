@@ -4,8 +4,7 @@ Title: Basic k-Fold And Time Series Cross-Validation
 Version: 0.1.0
 Author: Alan Tseng
 Maintainer: Alan Tseng <alan.tseng@alum.utoronto.ca>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Generates indices for k-fold and time series cross-validation.
 License: GPL-3
 Imports: methods
 Encoding: UTF-8
